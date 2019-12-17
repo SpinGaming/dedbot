@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
-const PREFIX = "$";
+const PREFIX = "ded";
 const moment = require('moment');
 
 const fs = require('fs');
